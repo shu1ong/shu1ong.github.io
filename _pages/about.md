@@ -9,18 +9,17 @@ redirect_from:
 ---
 # EDUCATION
 
-* **Chongqing University(CQU)**, Chongqing, China                                                                                        *09/2018-06/2022*
+* **Chongqing University(CQU)**, Chongqing, China                                                                                      
 
-    Bachelor's degree in Engineering.
+  *09/2018-06/2022*
 
-    Major: Aerospace Engineering
+  Bachelor's degree in Engineering.
 
-* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China                                                                                        *09/2022-06/2023*
+  Major: Aerospace Engineering
+* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China                                                                                      
 
-    Master's degree in Engineering
+  *09/2022-06/2023*
 
-    Major: Aeronautic Engineering
+  Master's degree in Engineering
 
-# For more info
-
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+  Major: Aeronautic Engineering
