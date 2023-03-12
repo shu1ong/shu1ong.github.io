@@ -7,23 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# EDUCATION
+## EDUCATION
 
 - **B.Eng.Chongqing University(CQU)**,*06/2022*
 - **M.Eng.Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China (Present)
 
-# EXTRACURRICULAR ACTIVITIE
+## Project
 
-- **Aeromodelling Team of Chongqing University**                                            11/2019-05/2021
+- ### Quadrotor Flight through Narrow Gaps with Onboard camera and an IMU
+
+- ### Acquisition of inertial sensor data and attitude measurement in FWMAV flight control system 
+
+- ### Launch and Load Recovery of the Multistage Model Rocket 
+
+## EXTRACURRICULAR ACTIVITIE
+
+- **Aeromodelling Team of Chongqing University**                                      
 
   *Team Leader, Project Leader of Model Rocket*
 
-    Led the team members to participate in CADC competitions and acted as the person in charge of a research project, and shared duties including task arrangements, operational management, and training supervision
+    Led the team members to participate in CADC competitions 
 
-- **MSC (Microsoft Student Club) of Chongqing University**                  		10/2019-10/2020
+- **MSC (Microsoft Student Club) of Chongqing University**    
 
     *Chief*
 
     Organized a series of student activities
 
-    Participated in and helped organize invitational competitions like Hackathons
+    
