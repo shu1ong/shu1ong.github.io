@@ -20,7 +20,7 @@ redirect_from:
 
 ​			Integrated PCB for a flapping-wing drone controller with Bluetooth, MCU, and IMU	
 
-<img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;" align="middle" />
+<div align=center><img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;"  /></div>
 
 ​			test for the equipment
 
