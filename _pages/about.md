@@ -28,9 +28,14 @@ redirect_from:
 
 ​				data analyse
 
-<div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 50%;" />
+<div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 100%;" />
+
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
+
+<div align=center><img src="..\images\lv_0_20230313144152.gif" alt="lv_0_20230313144152" style="zoom:50%;" />
+
+<div align=center><img src="..\images\lv_0_20230313145148.gif" alt="lv_0_20230313145148" style="zoom:50%;" />
 
 - ### Conceptual Design of Eight-rotor Aircraft Flight
 
