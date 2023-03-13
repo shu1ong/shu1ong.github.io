@@ -12,7 +12,7 @@ redirect_from:
 - **B.Eng.Chongqing University(CQU)**,*06/2022*
 - **M.Eng.Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China (Present)
 
-## Project
+## <center> Project
 
 - ### Quadrotor Flight through Narrow Gaps with Onboard camera and an IMU
 
@@ -22,25 +22,29 @@ redirect_from:
 
 <div align=center><img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;"  /></div>
 
-​			test for the equipment
+​			Tested the performance of the integrated controller in attitude measurement and applied simple Kalman filtering to the collected data.			test for the equipment
 
 <div align=center><img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" /></div>
 
-​				data analyse
+​			data analyse
 
-<div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 100%;" /></div>
+<div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 30%;" /></div>
 
 
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
+<div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
+
 <div align=center><img src="..\images\lv_0_20230313144152.gif" alt="lv_0_20230313144152" style="zoom:50%;" /></div>
 
 <div align=center><img src="..\images\lv_0_20230313145148.gif" alt="lv_0_20230313145148" style="zoom:50%;" /></div>
 
+
+
 - ### Conceptual Design of Eight-rotor Aircraft Flight
 
-## EXTRACURRICULAR ACTIVITIES
+## <center> EXTRACURRICULAR ACTIVITIES
 
 - **Aeromodelling Team of Chongqing University**                                      
 
