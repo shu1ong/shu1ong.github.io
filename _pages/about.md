@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## EDUCATION
+## <center> EDUCATION
 
 - **B.Eng.Chongqing University(CQU)**,*06/2022*
 - **M.Eng.Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China (Present)
@@ -22,11 +22,11 @@ redirect_from:
 
 <img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;" />
 
-test for the equipment
+​			test for the equipment
 
 <img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" />
 
-data analsyse
+​				data analyse
 
 
 
