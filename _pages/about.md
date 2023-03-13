@@ -30,7 +30,8 @@ redirect_from:
 
 <div align=center><img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" /></div>
 
-<center>data analyse
+<center>data analyse</center>
+
 
 <div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 30%;" /></div>
 
