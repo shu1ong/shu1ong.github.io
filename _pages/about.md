@@ -18,9 +18,13 @@ redirect_from:
 
 - ### Acquisition of inertial sensor data and attitude measurement in FWMAV flight control system 
 
-​			integrated PCB for a flapping-wing drone controller with Bluetooth, MCU, and IMU	
+​			Integrated PCB for a flapping-wing drone controller with Bluetooth, MCU, and IMU	
 
-<img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 25%;" />
+<img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;" />
+
+环境测试
+
+<img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" />
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
