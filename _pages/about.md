@@ -8,12 +8,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## <center> EDUCATION
+## <center>EDUCATION</center>
 
 - **B.Eng.Chongqing University(CQU)**,*06/2022*
 - **M.Eng.Hong Kong University of Science and Technology (HKUST)**, Hong Kong, China (Present)
 
-## <center> Project
+## <center> Project</center>
 
 - ### Quadrotor Flight through Narrow Gaps with Onboard camera and an IMU
 
@@ -39,14 +39,15 @@ redirect_from:
 
 A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the first stage.
 
-<center>Solid rocket motor thrust testing
+<center>Solid rocket motor thrust testing</center>
+
 <div align=center><img src="..\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
 
-<center>Ground testing of second stage ignition
+<center>Ground testing of second stage ignition</center>
 
 <div align=center><img src="..\images\lv_0_20230313144152.gif" alt="lv_0_20230313144152" style="zoom:50%;" /></div>
 
-<center>Launch experiment
+<center>Launch experiment</center>
 
 <div align=center><img src="..\images\lv_0_20230313145148.gif" alt="lv_0_20230313145148" style="zoom:50%;" /></div>
 
@@ -54,7 +55,7 @@ A two-stage rocket with six solid rocket motors has been designed, capable of se
 
 - ### Conceptual Design of Eight-rotor Aircraft Flight
 
-## <center> EXTRACURRICULAR ACTIVITIES
+## <center> EXTRACURRICULAR ACTIVITIES</center>
 
 - **Aeromodelling Team of Chongqing University**                                      
 
