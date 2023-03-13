@@ -40,8 +40,7 @@ redirect_from:
 A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the first stage.
 
 <center>Solid rocket motor thrust testing
-
-<div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
+<div align=center><img src="..\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
 
 <center>Ground testing of second stage ignition
 
