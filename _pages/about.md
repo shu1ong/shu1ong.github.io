@@ -34,6 +34,8 @@ redirect_from:
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
+Designed and welded the integrated circuit PCB board, integrating the MP180 and IMU JY901 with the minimum system of the microcontroller. Optimized the circuit layout on the rocket, achieving a hybrid design of structure and electronics.
+
 <div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
 
 <div align=center><img src="..\images\lv_0_20230313144152.gif" alt="lv_0_20230313144152" style="zoom:50%;" /></div>
