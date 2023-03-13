@@ -28,7 +28,7 @@ redirect_from:
 
 ​				data analyse
 
-<div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-44-32" style="zoom: 50%;" />
+<div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-44-32" style="zoom: 50%;" />
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
