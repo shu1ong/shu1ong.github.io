@@ -25,7 +25,8 @@ redirect_from:
 
 ​			Tested the performance of the integrated controller in attitude measurement and applied simple Kalman filtering to the collected data.			
 
-<center>test for the equipment
+<center>test for the equipment</center>
+
 
 <div align=center><img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" /></div>
 
