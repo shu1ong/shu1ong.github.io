@@ -21,7 +21,7 @@ redirect_from:
 
 ​			Integrated PCB for a flapping-wing drone controller with Bluetooth, MCU, and IMU	
 
-<div align=center><img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;"  /></div>
+<center><img src="..\images\image-20230313173758272.png" alt="image-20230313173758272" style="zoom: 33%;" /></center>
 
 ​			Tested the performance of the integrated controller in attitude measurement and applied simple Kalman filtering to the collected data.			
 
@@ -41,6 +41,8 @@ redirect_from:
 
 A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the first stage.
 
+<center><img src="..\images\Snipaste_2023-03-13_18-20-23.jpg" alt="Snipaste_2023-03-13_18-20-23" style="zoom:50%;" /></center>
+
 <center>Solid rocket motor thrust testing</center>
 
 <div align=center><img src="..\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
@@ -57,7 +59,19 @@ A two-stage rocket with six solid rocket motors has been designed, capable of se
 
 - ### Conceptual Design of Eight-rotor Aircraft Flight
 
-With a 15-minute hover time as a prerequisite, the designed rotary-wing unmanned aerial vehicle (UAV) needs to have the maximum possible load capacity. The flight altitude is set to 5 meters above the ground.
+With a 15-minute hover time as a prerequisite, the designed rotary-wing unmanned aerial vehicle (UAV) needs to have the maximum possible load capacity. The flight altitude is set to 5 meters above the ground.The upper limit of the budget is 2000￥.[Rflysim](rflysim.com) was used to assist us in the conceptual design and configuration selection of the drone.
+
+<center>In order to use larger-sized rotor blades, we redesigned the frame ourselves.</center>
+
+<center><img src="..\images\image-20230313161150025.png" alt="image-20230313161150025" style="zoom: 50%;" /></center>
+
+<center>Assembling the drone</center>
+
+<center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\image-20230313161345511.png" alt="image-20230313161345511" style="zoom: 33%;" /></center>
+
+<center>Control simulation</center>
+
+<center><img src="C:\Users\shulong\AppData\Roaming\Typora\typora-user-images\image-20230313182710042.png" alt="image-20230313182710042" style="zoom:50%;" /></center>
 
 ## <center> EXTRACURRICULAR ACTIVITIES</center>
 
