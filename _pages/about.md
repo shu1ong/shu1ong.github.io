@@ -24,11 +24,11 @@ redirect_from:
 
 ​			test for the equipment
 
-<img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" />
+<div align=center><img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" /></div>
 
 ​				data analyse
 
-
+<div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-44-32" style="zoom: 50%;" />
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
