@@ -67,11 +67,11 @@ With a 15-minute hover time as a prerequisite, the designed rotary-wing unmanned
 
 <center>Assembling the drone</center>
 
-<center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\image-20230313161345511.png" alt="image-20230313161345511" style="zoom: 33%;" /></center>
+<center><img src="..\images\image-20230313161345511.png" alt="image-20230313161345511" style="zoom: 33%;" /></center>
 
 <center>Control simulation</center>
 
-<center><img src="C:\Users\shulong\AppData\Roaming\Typora\typora-user-images\image-20230313182710042.png" alt="image-20230313182710042" style="zoom:50%;" /></center>
+<center><img src="..\images\image-20230313182710042.png" alt="image-20230313182710042" style="zoom:50%;" /></center>
 
 ## <center> EXTRACURRICULAR ACTIVITIES</center>
 
