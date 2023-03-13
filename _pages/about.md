@@ -1,4 +1,5 @@
 ---
+
 permalink: /
 title: ""
 excerpt: "About me"
@@ -22,11 +23,13 @@ redirect_from:
 
 <div align=center><img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;"  /></div>
 
-​			Tested the performance of the integrated controller in attitude measurement and applied simple Kalman filtering to the collected data.			test for the equipment
+​			Tested the performance of the integrated controller in attitude measurement and applied simple Kalman filtering to the collected data.			
+
+<center>test for the equipment
 
 <div align=center><img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" align="middle" /></div>
 
-​			data analyse
+<center>data analyse
 
 <div align=center><img src="..\images\Snipaste_2023-03-13_13-44-32.jpg" alt="Snipaste_2023-03-13_13-51-56" style="zoom: 30%;" /></div>
 
@@ -34,11 +37,17 @@ redirect_from:
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
-Designed and welded the integrated circuit PCB board, integrating the MP180 and IMU JY901 with the minimum system of the microcontroller. Optimized the circuit layout on the rocket, achieving a hybrid design of structure and electronics.
+A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the first stage.
+
+<center>Solid rocket motor thrust testing
 
 <div align=center><img src="C:\Users\shulong\Documents\GitHub\shu1ong.github.io\images\lv_0_20230313150624.gif" alt="lv_0_20230313150624" style="zoom:50%;" /></div>
 
+<center>Ground testing of second stage ignition
+
 <div align=center><img src="..\images\lv_0_20230313144152.gif" alt="lv_0_20230313144152" style="zoom:50%;" /></div>
+
+<center>Launch experiment
 
 <div align=center><img src="..\images\lv_0_20230313145148.gif" alt="lv_0_20230313145148" style="zoom:50%;" /></div>
 
