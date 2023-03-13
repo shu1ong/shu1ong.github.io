@@ -57,18 +57,20 @@ A two-stage rocket with six solid rocket motors has been designed, capable of se
 
 - ### Conceptual Design of Eight-rotor Aircraft Flight
 
+With a 15-minute hover time as a prerequisite, the designed rotary-wing unmanned aerial vehicle (UAV) needs to have the maximum possible load capacity. The flight altitude is set to 5 meters above the ground.
+
 ## <center> EXTRACURRICULAR ACTIVITIES</center>
 
 - **Aeromodelling Team of Chongqing University**                                      
 
   *Team Leader, Project Leader of Model Rocket*
 
-    Led the team members to participate in CADC competitions 
+    Led the team members to participate in CADC competitions .
 
 - **MSC (Microsoft Student Club) of Chongqing University**    
 
     *Chief*
 
-    Organized a series of student activities
+    Organized a series of student activities.
 
     
