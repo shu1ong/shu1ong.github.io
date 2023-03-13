@@ -22,9 +22,13 @@ redirect_from:
 
 <img src="..\images\McuPCB2_pt.PcbDoc.0.F (4).png" alt="McuPCB2_pt.PcbDoc.0.F (4)" style="zoom: 20%;" />
 
-环境测试
+test for the equipment
 
 <img src="..\images\fmav.jpg" alt="fmav" style="zoom:33%;" />
+
+data analsyse
+
+
 
 - ### Launch and Load Recovery of the Multistage Model Rocket 
 
