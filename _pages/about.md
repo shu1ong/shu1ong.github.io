@@ -21,11 +21,12 @@ redirect_from:
   explored the process of calling the D435i camera in ROS.
 
 <center>
-<figure class="third">
+<figure class="half">
 <img src="..\images\image-20230410191824227.png" alt="image-20230410191824227" style="zoom: 15%;" />
 <img src="..\images\image-20230410192035376.png" alt="image-20230410192035376" style="zoom:25%;" />
 </figure>
 </center>
+
 Use MSCKF (Multi-State Constraint Kalman Filter) to replay a bag file recorded by the D435i camera.
 
 <center>
