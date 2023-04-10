@@ -40,7 +40,7 @@ The height of the wall is 6m and the distance to the drone is about 5m. The size
 
 The GIF images are played at a speed of 5 times faster than their original speed. The maximum speed allowed for the drone is 1m/s.
 
-The main focus of the simulation at present is on calling the framework and adjusting parameters in the simulation environment, and the results are not very stable. More further works need to do.
+The next step is to carry out hardware deployment on drones.
 
 
 <center>
@@ -72,7 +72,7 @@ The main focus of the simulation at present is on calling the framework and adju
 
 - ### Project 3: Launch and Load Recovery of the Multistage Model Rocket 
 
-A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the first stage.
+A two-stage rocket with six solid rocket motors has been designed, capable of second stage ignition. The rocket body of each stage can be recovered separately, and the electronic control system is arranged in the second stage.
 
 <center><img src="..\images\Snipaste_2023-03-13_18-20-23.jpg" alt="Snipaste_2023-03-13_18-20-23" style="zoom:50%;" /></center>
 
