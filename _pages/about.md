@@ -29,8 +29,9 @@ redirect_from:
 Use MSCKF (Multi-State Constraint Kalman Filter) to replay a bag file recorded by the D435i camera.
 
 <center>
-<img src="file://C:/Users/shulong/Documents/GitHub/shu1ong.github.io/images/msckf2.gif?lastModify=1681125967" alt="msckf2" style="zoom:15%;" />
+<img src="../images/msckf2.gif?lastModify=1681125967" alt="msckf2" style="zoom:15%;" />
 </center>
+
 
 The simulation utilizes open-source codes, [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) and [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner-swarm), and has been implemented on the [XTDrone](https://github.com/robin-shaun/XTDrone) platform. 
 
